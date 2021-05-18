@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0a45c40.chunk.css",
+    "main.js": "/static/js/main.26ef5718.chunk.js",
+    "main.js.map": "/static/js/main.26ef5718.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df1446a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df1446a7.js.map",
+    "static/css/2.e4d41df7.chunk.css": "/static/css/2.e4d41df7.chunk.css",
+    "static/js/2.cac41f56.chunk.js": "/static/js/2.cac41f56.chunk.js",
+    "static/js/2.cac41f56.chunk.js.map": "/static/js/2.cac41f56.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e4d41df7.chunk.css.map": "/static/css/2.e4d41df7.chunk.css.map",
+    "static/css/main.a0a45c40.chunk.css.map": "/static/css/main.a0a45c40.chunk.css.map",
+    "static/js/2.cac41f56.chunk.js.LICENSE.txt": "/static/js/2.cac41f56.chunk.js.LICENSE.txt",
+    "static/media/android.f3114688.png": "/static/media/android.f3114688.png",
+    "static/media/bilibili.d40d8623.png": "/static/media/bilibili.d40d8623.png",
+    "static/media/embedded.42771d76.svg": "/static/media/embedded.42771d76.svg",
+    "static/media/hardware-department.dd189ac0.png": "/static/media/hardware-department.dd189ac0.png",
+    "static/media/logo.a77bc4f1.png": "/static/media/logo.a77bc4f1.png",
+    "static/media/multimedia-department.d90e50b2.png": "/static/media/multimedia-department.d90e50b2.png",
+    "static/media/organization-department.4568cf5f.png": "/static/media/organization-department.4568cf5f.png",
+    "static/media/python.0a1cf00e.png": "/static/media/python.0a1cf00e.png",
+    "static/media/react.228bfce4.png": "/static/media/react.228bfce4.png",
+    "static/media/software-depertment.21d10e3f.png": "/static/media/software-depertment.21d10e3f.png",
+    "static/media/ui.a383dd20.png": "/static/media/ui.a383dd20.png",
+    "static/media/unity.3a738e3a.png": "/static/media/unity.3a738e3a.png",
+    "static/media/wechat.b9bd8f06.png": "/static/media/wechat.b9bd8f06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df1446a7.js",
+    "static/css/2.e4d41df7.chunk.css",
+    "static/js/2.cac41f56.chunk.js",
+    "static/css/main.a0a45c40.chunk.css",
+    "static/js/main.26ef5718.chunk.js"
+  ]
+}
